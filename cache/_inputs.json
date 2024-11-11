@@ -69,77 +69,92 @@
         "baseYOffset": 0,
         "baseZOffset": 20,
         "options": {
-          "BluePink": {
-            "name": "BluePink",
+          "Dotted Blue": {
+            "name": "Dotted Blue",
             "weight": 30,
             "assets": [
               {
-                "path": "Hair__z20/BluePink__w30.png",
+                "path": "Hair__z20/Dotted Blue__w30.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963423,
-                "size": 427766
+                "lastModifiedTime": 1731313901575,
+                "size": 2380557
               }
             ],
             "edgeCases": {}
           },
-          "Cyan": {
-            "name": "Cyan",
+          "Dotted Cyan": {
+            "name": "Dotted Cyan",
             "weight": 40,
             "assets": [
               {
-                "path": "Hair__z20/Cyan__w40.png",
+                "path": "Hair__z20/Dotted Cyan__w40.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963423,
-                "size": 336688
+                "lastModifiedTime": 1731313901503,
+                "size": 1661470
               }
             ],
             "edgeCases": {}
           },
-          "Green": {
-            "name": "Green",
-            "weight": 40,
+          "Dotted Gold": {
+            "name": "Dotted Gold",
+            "weight": 20,
             "assets": [
               {
-                "path": "Hair__z20/Green__w40.png",
+                "path": "Hair__z20/Dotted Gold__w20.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963427,
-                "size": 360815
+                "lastModifiedTime": 1731313901539,
+                "size": 2166596
               }
             ],
             "edgeCases": {}
           },
-          "LightPurple": {
-            "name": "LightPurple",
-            "weight": 40,
+          "Dotted Orange": {
+            "name": "Dotted Orange",
+            "weight": 30,
             "assets": [
               {
-                "path": "Hair__z20/LightPurple__w40.png",
+                "path": "Hair__z20/Dotted Orange__w30.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963431,
-                "size": 470747
+                "lastModifiedTime": 1731313901487,
+                "size": 1992680
               }
             ],
             "edgeCases": {}
           },
-          "LimeGreen": {
-            "name": "LimeGreen",
-            "weight": 50,
+          "Dotted Pink": {
+            "name": "Dotted Pink",
+            "weight": 30,
             "assets": [
               {
-                "path": "Hair__z20/LimeGreen__w50.png",
+                "path": "Hair__z20/Dotted Pink__w30.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963431,
-                "size": 487609
+                "lastModifiedTime": 1731313901523,
+                "size": 2297415
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Dotted Rainbow": {
+            "name": "Dotted Rainbow",
+            "weight": 10,
+            "assets": [
+              {
+                "path": "Hair__z20/Dotted Rainbow__w10.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1731313901555,
+                "size": 1802907
               }
             ],
             "edgeCases": {}
@@ -153,83 +168,53 @@
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963435,
-                "size": 343205
+                "lastModifiedTime": 1731313901471,
+                "size": 1078821
               }
             ],
             "edgeCases": {}
           },
-          "Pink": {
-            "name": "Pink",
+          "PInk": {
+            "name": "PInk",
             "weight": 50,
             "assets": [
               {
-                "path": "Hair__z20/Pink__w50.png",
+                "path": "Hair__z20/PInk__w50.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963435,
-                "size": 325138
+                "lastModifiedTime": 1731313901463,
+                "size": 976191
               }
             ],
             "edgeCases": {}
           },
-          "PixelBlue": {
-            "name": "PixelBlue",
-            "weight": 40,
-            "assets": [
-              {
-                "path": "Hair__z20/PixelBlue__w40.png",
-                "relativeXOffset": 0,
-                "relativeYOffset": 0,
-                "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963439,
-                "size": 540764
-              }
-            ],
-            "edgeCases": {}
-          },
-          "PixelGreen": {
-            "name": "PixelGreen",
-            "weight": 20,
-            "assets": [
-              {
-                "path": "Hair__z20/PixelGreen__w20.png",
-                "relativeXOffset": 0,
-                "relativeYOffset": 0,
-                "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963443,
-                "size": 524650
-              }
-            ],
-            "edgeCases": {}
-          },
-          "PixelLightBlue": {
-            "name": "PixelLightBlue",
-            "weight": 20,
-            "assets": [
-              {
-                "path": "Hair__z20/PixelLightBlue__w20.png",
-                "relativeXOffset": 0,
-                "relativeYOffset": 0,
-                "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963447,
-                "size": 518530
-              }
-            ],
-            "edgeCases": {}
-          },
-          "Red": {
-            "name": "Red",
+          "Pale": {
+            "name": "Pale",
             "weight": 50,
             "assets": [
               {
-                "path": "Hair__z20/Red__w50.png",
+                "path": "Hair__z20/Pale__w50.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731312963451,
-                "size": 315850
+                "lastModifiedTime": 1731313901455,
+                "size": 1034404
+              }
+            ],
+            "edgeCases": {}
+          },
+          "Yellow": {
+            "name": "Yellow",
+            "weight": 50,
+            "assets": [
+              {
+                "path": "Hair__z20/Yellow__w50.png",
+                "relativeXOffset": 0,
+                "relativeYOffset": 0,
+                "relativeZOffset": 0,
+                "lastModifiedTime": 1731313901447,
+                "size": 1112167
               }
             ],
             "edgeCases": {}
