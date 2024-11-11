@@ -28,8 +28,8 @@ const ae = new ArtEngine({
       },
     }),
     new renderers.ImageLayersRenderer({
-      width: 2048,
-      height: 2048,
+      width: 3464,
+      height: 3464,
     }),
   ],
 

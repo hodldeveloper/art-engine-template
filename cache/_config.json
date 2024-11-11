@@ -1,0 +1,47 @@
+{
+  "cachePath": "/workspaces/art-engine-template/cache",
+  "outputPath": "/workspaces/art-engine-template/output",
+  "inputs": {
+    "apes": {
+      "assetsBasePath": "/workspaces/art-engine-template/data"
+    }
+  },
+  "generators": [
+    {
+      "dataSet": "apes",
+      "startIndex": 1,
+      "endIndex": 10
+    }
+  ],
+  "renderers": [
+    {},
+    {
+      "imageProcessor": {},
+      "width": 3464,
+      "height": 3464
+    }
+  ],
+  "exporters": [
+    {
+      "imagesFolder": "images"
+    },
+    {
+      "metadataFolder": "erc721 metadata",
+      "imageUriPrefix": "ipfs://__CID__/"
+    },
+    {
+      "metadataFolder": "sol metadata",
+      "symbol": "APES",
+      "sellerFeeBasisPoints": 200,
+      "collectionName": "The Apes",
+      "collectionFamily": "",
+      "imageUriPrefix": "ipfs://__CID__/",
+      "creators": [
+        {
+          "address": "__SOLANA_WALLET_ADDRESS_HERE__",
+          "share": 100
+        }
+      ]
+    }
+  ]
+}

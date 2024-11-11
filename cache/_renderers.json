@@ -1,0 +1,352 @@
+{
+  "1": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "ead11ae9146af2c191637fe8ba7af46771a0d397"
+        ],
+        "name": "Ape 1",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Pink"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Tan"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/1.png"
+      }
+    }
+  ],
+  "2": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "41ec1e832dcfcc3236de0167cfac8a9247acc364"
+        ],
+        "name": "Ape 2",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Orange"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Light"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/2.png"
+      }
+    }
+  ],
+  "3": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "f74d9e6a24e7e532181f08116095491bffdeda08"
+        ],
+        "name": "Ape 3",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Red"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Tan"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/3.png"
+      }
+    }
+  ],
+  "4": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "8e9d0682263eb0cae6e6dac7e8064f5df2293ac6"
+        ],
+        "name": "Ape 4",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Cyan"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Tan"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/4.png"
+      }
+    }
+  ],
+  "5": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "a7b0826bdca50bec6585393b228767183d5c6b57"
+        ],
+        "name": "Ape 5",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Orange"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Tan"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/5.png"
+      }
+    }
+  ],
+  "6": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "544b3a2a015abd043952071052afcf457f6bb1d8"
+        ],
+        "name": "Ape 6",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Special"
+          ],
+          "Hair": [
+            "Green"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Tan"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/6.png"
+      }
+    }
+  ],
+  "7": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "dd35cd9557ea99f9faaadd88d9e086e781db3dbb"
+        ],
+        "name": "Ape 7",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Green"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Light"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/7.png"
+      }
+    }
+  ],
+  "8": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "a50c12afc2d195ab003ccbc7f3244f0a19b677e3"
+        ],
+        "name": "Ape 8",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "Cyan"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Light"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/8.png"
+      }
+    }
+  ],
+  "9": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "cdb37629e8bc7b683cdab3564f263232a6bb2a5b"
+        ],
+        "name": "Ape 9",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "LimeGreen"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Light"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/9.png"
+      }
+    }
+  ],
+  "10": [
+    {
+      "kind": "ItemAttributesRendererInterface@v1",
+      "data": {
+        "dna": [
+          "3d64e73e3ba4b138df4bfd65e0dff1b52ca5051f"
+        ],
+        "name": "Ape 10",
+        "description": "This is a token with \"White\" as Background",
+        "attributes": {
+          "Background": [
+            "White"
+          ],
+          "Eyes": [
+            "Regular"
+          ],
+          "Hair": [
+            "LightPurple"
+          ],
+          "Mouth": [
+            "Smile"
+          ],
+          "Skin": [
+            "Light"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "StaticLayeredImagesRendererInterface@v1",
+      "data": {
+        "path": "/workspaces/art-engine-template/cache/_temp/10.png"
+      }
+    }
+  ]
+}

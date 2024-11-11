@@ -1,0 +1,18 @@
+{
+  "inputs": {
+    "curr": "7d6be1f169d87d0ee64d9b0acbd3794cd8daa3af0cc651c6a245912b4c074504",
+    "prev": "7d6be1f169d87d0ee64d9b0acbd3794cd8daa3af0cc651c6a245912b4c074504"
+  },
+  "generators": {
+    "curr": "d3142e07096dd89fb35549e1f32658b831d823434aa0a90ed181cde9227c64d7",
+    "prev": "d3142e07096dd89fb35549e1f32658b831d823434aa0a90ed181cde9227c64d7"
+  },
+  "renderers": {
+    "curr": "b38bd29076205f542d1d50c54830512ee6b74bee8fec17ea4c3311f9a4543e15",
+    "prev": "b38bd29076205f542d1d50c54830512ee6b74bee8fec17ea4c3311f9a4543e15"
+  },
+  "renderers_temp": {
+    "curr": "99062b0a04e56345ef2b86384a8da2e4ee9d7a376c7161cd3e8de340363339ed",
+    "prev": "99062b0a04e56345ef2b86384a8da2e4ee9d7a376c7161cd3e8de340363339ed"
+  }
+}
