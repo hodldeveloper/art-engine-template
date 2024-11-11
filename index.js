@@ -24,13 +24,12 @@ const ae = new ArtEngine({
     new renderers.ItemAttributesRenderer({
       name: (itemUid) => `Ape ${itemUid}`,
       description: (attributes) => {
-        return `This is a token `;
-        //return `This is a token with "${attributes['Background'][0]}" as Background`;
+        return `This is a token with "${attributes['Background'][0]}" as Background`;
       },
     }),
     new renderers.ImageLayersRenderer({
-      width: 1824,
-      height: 1824,
+      width: 2048,
+      height: 2048,
     }),
   ],
 
