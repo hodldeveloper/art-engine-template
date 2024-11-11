@@ -3,63 +3,11 @@
     {
       "kind": "ItemAttributesGeneratorInterface@v1",
       "data": {
-        "dna": "41ec1e832dcfcc3236de0167cfac8a9247acc364",
+        "dna": "a1b051683ff64c4b3aa0f81eaff0197addaf1a02",
         "attributes": {
-          "Background": "White",
+          "Background": "Transparent",
           "Eyes": "Regular",
-          "Hair": "Orange",
-          "Mouth": "Smile",
-          "Skin": "Light"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Regular__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Orange__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Light__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "2": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "a7b0826bdca50bec6585393b228767183d5c6b57",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Regular",
-          "Hair": "Orange",
+          "Hair": "Pale",
           "Mouth": "Smile",
           "Skin": "Tan"
         }
@@ -70,7 +18,7 @@
       "data": {
         "assets": [
           {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
+            "path": "/workspaces/art-engine-template/data/Background__z10/Transparent__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 10
@@ -82,7 +30,7 @@
             "zOffset": 40
           },
           {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Orange__w50.png",
+            "path": "/workspaces/art-engine-template/data/Hair__z20/Pale__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 20
@@ -103,15 +51,15 @@
       }
     }
   ],
-  "3": [
+  "2": [
     {
       "kind": "ItemAttributesGeneratorInterface@v1",
       "data": {
-        "dna": "a1135dfafb7ac052e837c0288fd5579c1fb296cc",
+        "dna": "e7eb5daaa22ce3518a0359bb5c3471afea738811",
         "attributes": {
-          "Background": "White",
+          "Background": "Transparent",
           "Eyes": "Regular",
-          "Hair": "Dotted Gold",
+          "Hair": "Yellow",
           "Mouth": "Smile",
           "Skin": "Light"
         }
@@ -122,7 +70,7 @@
       "data": {
         "assets": [
           {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
+            "path": "/workspaces/art-engine-template/data/Background__z10/Transparent__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 10
@@ -134,7 +82,59 @@
             "zOffset": 40
           },
           {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Gold__w20.png",
+            "path": "/workspaces/art-engine-template/data/Hair__z20/Yellow__w50.png",
+            "xOffset": 0,
+            "yOffset": 0,
+            "zOffset": 20
+          },
+          {
+            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
+            "xOffset": 0,
+            "yOffset": 0,
+            "zOffset": 50
+          },
+          {
+            "path": "/workspaces/art-engine-template/data/Skin__z10/Light__w50.png",
+            "xOffset": 0,
+            "yOffset": 0,
+            "zOffset": 10
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "kind": "ItemAttributesGeneratorInterface@v1",
+      "data": {
+        "dna": "4107810f11690cab1f745d55730778c8603ce8bf",
+        "attributes": {
+          "Background": "Transparent",
+          "Eyes": "Regular",
+          "Hair": "Dotted Cyan",
+          "Mouth": "Smile",
+          "Skin": "Light"
+        }
+      }
+    },
+    {
+      "kind": "ImageLayersGeneratorInterface@v1",
+      "data": {
+        "assets": [
+          {
+            "path": "/workspaces/art-engine-template/data/Background__z10/Transparent__w50.png",
+            "xOffset": 0,
+            "yOffset": 0,
+            "zOffset": 10
+          },
+          {
+            "path": "/workspaces/art-engine-template/data/Eyes__z40/Regular__w50.png",
+            "xOffset": 0,
+            "yOffset": 0,
+            "zOffset": 40
+          },
+          {
+            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Cyan__w40.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 20
@@ -159,11 +159,11 @@
     {
       "kind": "ItemAttributesGeneratorInterface@v1",
       "data": {
-        "dna": "14ca65aaaf41262ee0f5dd1fcecc5621f7d49156",
+        "dna": "5e7a6196e862e1f51292f93d75fbad6afcc394b6",
         "attributes": {
-          "Background": "White",
+          "Background": "Transparent",
           "Eyes": "Special",
-          "Hair": "Dotted Gold",
+          "Hair": "Pale",
           "Mouth": "Smile",
           "Skin": "Light"
         }
@@ -174,7 +174,7 @@
       "data": {
         "assets": [
           {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
+            "path": "/workspaces/art-engine-template/data/Background__z10/Transparent__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 10
@@ -186,7 +186,7 @@
             "zOffset": 40
           },
           {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Gold__w20.png",
+            "path": "/workspaces/art-engine-template/data/Hair__z20/Pale__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 20
@@ -211,11 +211,11 @@
     {
       "kind": "ItemAttributesGeneratorInterface@v1",
       "data": {
-        "dna": "f44fd8d8fd6614a355bcacc5e3688563ff4c4864",
+        "dna": "112639f2fd3d72487b5eb0a4b52abdc4cae1b3b6",
         "attributes": {
-          "Background": "White",
-          "Eyes": "Special",
-          "Hair": "PInk",
+          "Background": "Transparent",
+          "Eyes": "Regular",
+          "Hair": "Dotted Blue",
           "Mouth": "Smile",
           "Skin": "Light"
         }
@@ -226,59 +226,7 @@
       "data": {
         "assets": [
           {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Special__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/PInk__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Light__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "6": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "c4380c25d2ab883f59f724ea04e9eaf86b009f84",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Regular",
-          "Hair": "Dotted Gold",
-          "Mouth": "Smile",
-          "Skin": "Tan"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
+            "path": "/workspaces/art-engine-template/data/Background__z10/Transparent__w50.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 10
@@ -290,215 +238,7 @@
             "zOffset": 40
           },
           {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Gold__w20.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Tan__w30.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "7": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "00fd3569083488398f2672747b3f2a506e76916d",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Special",
-          "Hair": "Yellow",
-          "Mouth": "Smile",
-          "Skin": "Tan"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Special__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Yellow__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Tan__w30.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "8": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "46168216c52e9256ea8e0b80eef8b990be42cc14",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Regular",
-          "Hair": "Pale",
-          "Mouth": "Smile",
-          "Skin": "Tan"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Regular__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Pale__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Tan__w30.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "9": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "79ea4926543b6357988de2a474b71e4b8dc6b26e",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Regular",
-          "Hair": "Dotted Cyan",
-          "Mouth": "Smile",
-          "Skin": "Tan"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Regular__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Cyan__w40.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 20
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Mouth__z50/Smile__w50.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 50
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Skin__z10/Tan__w30.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          }
-        ]
-      }
-    }
-  ],
-  "10": [
-    {
-      "kind": "ItemAttributesGeneratorInterface@v1",
-      "data": {
-        "dna": "e19fc1346b556f5f2813f62890b374032840fee7",
-        "attributes": {
-          "Background": "White",
-          "Eyes": "Special",
-          "Hair": "Pale",
-          "Mouth": "Smile",
-          "Skin": "Light"
-        }
-      }
-    },
-    {
-      "kind": "ImageLayersGeneratorInterface@v1",
-      "data": {
-        "assets": [
-          {
-            "path": "/workspaces/art-engine-template/data/Background__z10/White__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 10
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Eyes__z40/Special__w10.png",
-            "xOffset": 0,
-            "yOffset": 0,
-            "zOffset": 40
-          },
-          {
-            "path": "/workspaces/art-engine-template/data/Hair__z20/Pale__w50.png",
+            "path": "/workspaces/art-engine-template/data/Hair__z20/Dotted Blue__w30.png",
             "xOffset": 0,
             "yOffset": 0,
             "zOffset": 20

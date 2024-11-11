@@ -1,5 +1,5 @@
 {
-  "apes": {
+  "laabubu": {
     "basePath": "/workspaces/art-engine-template/data",
     "layers": {
       "Background": {
@@ -8,17 +8,17 @@
         "baseYOffset": 0,
         "baseZOffset": 10,
         "options": {
-          "White": {
-            "name": "White",
-            "weight": 10,
+          "Transparent": {
+            "name": "Transparent",
+            "weight": 50,
             "assets": [
               {
-                "path": "Background__z10/White__w10.png",
+                "path": "Background__z10/Transparent__w50.png",
                 "relativeXOffset": 0,
                 "relativeYOffset": 0,
                 "relativeZOffset": 0,
-                "lastModifiedTime": 1731313162415,
-                "size": 72089
+                "lastModifiedTime": 1731314305315,
+                "size": 46818
               }
             ],
             "edgeCases": {}

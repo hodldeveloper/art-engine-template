@@ -2,15 +2,15 @@
   "cachePath": "/workspaces/art-engine-template/cache",
   "outputPath": "/workspaces/art-engine-template/output",
   "inputs": {
-    "apes": {
+    "laabubu": {
       "assetsBasePath": "/workspaces/art-engine-template/data"
     }
   },
   "generators": [
     {
-      "dataSet": "apes",
+      "dataSet": "laabubu",
       "startIndex": 1,
-      "endIndex": 10
+      "endIndex": 5
     }
   ],
   "renderers": [
@@ -31,9 +31,9 @@
     },
     {
       "metadataFolder": "sol metadata",
-      "symbol": "APES",
+      "symbol": "LaaBUBU",
       "sellerFeeBasisPoints": 200,
-      "collectionName": "The Apes",
+      "collectionName": "BCH Laabubu",
       "collectionFamily": "",
       "imageUriPrefix": "ipfs://__CID__/",
       "creators": [

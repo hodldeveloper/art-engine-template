@@ -2,29 +2,43 @@ const { ArtEngine, inputs, generators, renderers, exporters } = require('@hashli
 
 const BASE_PATH = __dirname;
 
+const fs = require('fs');
+const path = require('path');
+
+// Read and parse the description.json file
+const descriptionFilePath = path.join(__dirname, 'description.json');
+const descriptions = JSON.parse(fs.readFileSync(descriptionFilePath, 'utf8'));
+
+// Function to get a random description
+function getRandomDescription() {
+    const randomIndex = Math.floor(Math.random() * descriptions.length);
+    return descriptions[randomIndex];
+}
+
 const ae = new ArtEngine({
   cachePath: `${BASE_PATH}/cache`,
   outputPath: `${BASE_PATH}/output`,
 
   inputs: {
-    apes: new inputs.ImageLayersInput({
+    laabubu: new inputs.ImageLayersInput({
       assetsBasePath: `${BASE_PATH}/data`,
     }),
   },
 
   generators: [
     new generators.ImageLayersAttributesGenerator({
-      dataSet: 'apes',
+      dataSet: 'laabubu',
       startIndex: 1,
-      endIndex: 10,
+      endIndex: 5,
     }),
   ],
 
   renderers: [
     new renderers.ItemAttributesRenderer({
-      name: (itemUid) => `Ape ${itemUid}`,
+      name: (itemUid) => `Laabubu ${itemUid}`,
       description: (attributes) => {
-        return `This is a token with "${attributes['Background'][0]}" as Background`;
+        const description = getRandomDescription();
+        return `${description}`;
       },
     }),
     new renderers.ImageLayersRenderer({
@@ -40,9 +54,9 @@ const ae = new ArtEngine({
     }),
     new exporters.SolMetadataExporter({
       imageUriPrefix: 'ipfs://__CID__/',
-      symbol: 'APES',
+      symbol: 'LaaBUBU',
       sellerFeeBasisPoints: 200,
-      collectionName: 'The Apes',
+      collectionName: 'BCH Laabubu',
       creators: [
         {
           address: '__SOLANA_WALLET_ADDRESS_HERE__',

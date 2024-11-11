@@ -4,25 +4,25 @@
       "kind": "ItemAttributesRendererInterface@v1",
       "data": {
         "dna": [
-          "41ec1e832dcfcc3236de0167cfac8a9247acc364"
+          "a1b051683ff64c4b3aa0f81eaff0197addaf1a02"
         ],
-        "name": "Ape 1",
-        "description": "This is a token with \"White\" as Background",
+        "name": "Laabubu 1",
+        "description": "Meet Freeman Hailie, a eager labubu who loves singing song.",
         "attributes": {
           "Background": [
-            "White"
+            "Transparent"
           ],
           "Eyes": [
             "Regular"
           ],
           "Hair": [
-            "Orange"
+            "Pale"
           ],
           "Mouth": [
             "Smile"
           ],
           "Skin": [
-            "Light"
+            "Tan"
           ]
         }
       }
@@ -39,25 +39,25 @@
       "kind": "ItemAttributesRendererInterface@v1",
       "data": {
         "dna": [
-          "a7b0826bdca50bec6585393b228767183d5c6b57"
+          "e7eb5daaa22ce3518a0359bb5c3471afea738811"
         ],
-        "name": "Ape 2",
-        "description": "This is a token with \"White\" as Background",
+        "name": "Laabubu 2",
+        "description": "Meet Salvador John, a lively labubu who loves reading book.",
         "attributes": {
           "Background": [
-            "White"
+            "Transparent"
           ],
           "Eyes": [
             "Regular"
           ],
           "Hair": [
-            "Orange"
+            "Yellow"
           ],
           "Mouth": [
             "Smile"
           ],
           "Skin": [
-            "Tan"
+            "Light"
           ]
         }
       }
@@ -74,19 +74,19 @@
       "kind": "ItemAttributesRendererInterface@v1",
       "data": {
         "dna": [
-          "a1135dfafb7ac052e837c0288fd5579c1fb296cc"
+          "4107810f11690cab1f745d55730778c8603ce8bf"
         ],
-        "name": "Ape 3",
-        "description": "This is a token with \"White\" as Background",
+        "name": "Laabubu 3",
+        "description": "Meet Pat Wallace, a victorious labubu who loves swimming laps.",
         "attributes": {
           "Background": [
-            "White"
+            "Transparent"
           ],
           "Eyes": [
             "Regular"
           ],
           "Hair": [
-            "Dotted Gold"
+            "Dotted Cyan"
           ],
           "Mouth": [
             "Smile"
@@ -109,19 +109,19 @@
       "kind": "ItemAttributesRendererInterface@v1",
       "data": {
         "dna": [
-          "14ca65aaaf41262ee0f5dd1fcecc5621f7d49156"
+          "5e7a6196e862e1f51292f93d75fbad6afcc394b6"
         ],
-        "name": "Ape 4",
-        "description": "This is a token with \"White\" as Background",
+        "name": "Laabubu 4",
+        "description": "Meet Zachariah Katherine, a silly labubu who loves writing story.",
         "attributes": {
           "Background": [
-            "White"
+            "Transparent"
           ],
           "Eyes": [
             "Special"
           ],
           "Hair": [
-            "Dotted Gold"
+            "Pale"
           ],
           "Mouth": [
             "Smile"
@@ -144,19 +144,19 @@
       "kind": "ItemAttributesRendererInterface@v1",
       "data": {
         "dna": [
-          "f44fd8d8fd6614a355bcacc5e3688563ff4c4864"
+          "112639f2fd3d72487b5eb0a4b52abdc4cae1b3b6"
         ],
-        "name": "Ape 5",
-        "description": "This is a token with \"White\" as Background",
+        "name": "Laabubu 5",
+        "description": "Meet Dell Ewald, a jolly labubu who loves flying kite.",
         "attributes": {
           "Background": [
-            "White"
+            "Transparent"
           ],
           "Eyes": [
-            "Special"
+            "Regular"
           ],
           "Hair": [
-            "PInk"
+            "Dotted Blue"
           ],
           "Mouth": [
             "Smile"
@@ -171,181 +171,6 @@
       "kind": "StaticLayeredImagesRendererInterface@v1",
       "data": {
         "path": "/workspaces/art-engine-template/cache/_temp/5.png"
-      }
-    }
-  ],
-  "6": [
-    {
-      "kind": "ItemAttributesRendererInterface@v1",
-      "data": {
-        "dna": [
-          "c4380c25d2ab883f59f724ea04e9eaf86b009f84"
-        ],
-        "name": "Ape 6",
-        "description": "This is a token with \"White\" as Background",
-        "attributes": {
-          "Background": [
-            "White"
-          ],
-          "Eyes": [
-            "Regular"
-          ],
-          "Hair": [
-            "Dotted Gold"
-          ],
-          "Mouth": [
-            "Smile"
-          ],
-          "Skin": [
-            "Tan"
-          ]
-        }
-      }
-    },
-    {
-      "kind": "StaticLayeredImagesRendererInterface@v1",
-      "data": {
-        "path": "/workspaces/art-engine-template/cache/_temp/6.png"
-      }
-    }
-  ],
-  "7": [
-    {
-      "kind": "ItemAttributesRendererInterface@v1",
-      "data": {
-        "dna": [
-          "00fd3569083488398f2672747b3f2a506e76916d"
-        ],
-        "name": "Ape 7",
-        "description": "This is a token with \"White\" as Background",
-        "attributes": {
-          "Background": [
-            "White"
-          ],
-          "Eyes": [
-            "Special"
-          ],
-          "Hair": [
-            "Yellow"
-          ],
-          "Mouth": [
-            "Smile"
-          ],
-          "Skin": [
-            "Tan"
-          ]
-        }
-      }
-    },
-    {
-      "kind": "StaticLayeredImagesRendererInterface@v1",
-      "data": {
-        "path": "/workspaces/art-engine-template/cache/_temp/7.png"
-      }
-    }
-  ],
-  "8": [
-    {
-      "kind": "ItemAttributesRendererInterface@v1",
-      "data": {
-        "dna": [
-          "46168216c52e9256ea8e0b80eef8b990be42cc14"
-        ],
-        "name": "Ape 8",
-        "description": "This is a token with \"White\" as Background",
-        "attributes": {
-          "Background": [
-            "White"
-          ],
-          "Eyes": [
-            "Regular"
-          ],
-          "Hair": [
-            "Pale"
-          ],
-          "Mouth": [
-            "Smile"
-          ],
-          "Skin": [
-            "Tan"
-          ]
-        }
-      }
-    },
-    {
-      "kind": "StaticLayeredImagesRendererInterface@v1",
-      "data": {
-        "path": "/workspaces/art-engine-template/cache/_temp/8.png"
-      }
-    }
-  ],
-  "9": [
-    {
-      "kind": "ItemAttributesRendererInterface@v1",
-      "data": {
-        "dna": [
-          "79ea4926543b6357988de2a474b71e4b8dc6b26e"
-        ],
-        "name": "Ape 9",
-        "description": "This is a token with \"White\" as Background",
-        "attributes": {
-          "Background": [
-            "White"
-          ],
-          "Eyes": [
-            "Regular"
-          ],
-          "Hair": [
-            "Dotted Cyan"
-          ],
-          "Mouth": [
-            "Smile"
-          ],
-          "Skin": [
-            "Tan"
-          ]
-        }
-      }
-    },
-    {
-      "kind": "StaticLayeredImagesRendererInterface@v1",
-      "data": {
-        "path": "/workspaces/art-engine-template/cache/_temp/9.png"
-      }
-    }
-  ],
-  "10": [
-    {
-      "kind": "ItemAttributesRendererInterface@v1",
-      "data": {
-        "dna": [
-          "e19fc1346b556f5f2813f62890b374032840fee7"
-        ],
-        "name": "Ape 10",
-        "description": "This is a token with \"White\" as Background",
-        "attributes": {
-          "Background": [
-            "White"
-          ],
-          "Eyes": [
-            "Special"
-          ],
-          "Hair": [
-            "Pale"
-          ],
-          "Mouth": [
-            "Smile"
-          ],
-          "Skin": [
-            "Light"
-          ]
-        }
-      }
-    },
-    {
-      "kind": "StaticLayeredImagesRendererInterface@v1",
-      "data": {
-        "path": "/workspaces/art-engine-template/cache/_temp/10.png"
       }
     }
   ]
